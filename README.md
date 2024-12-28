@@ -89,6 +89,6 @@ Contributions to enhance the functionality or performance of this project are we
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Acknowledgments
+## Author
 
-- Developed by [Elif Pulukçu](https://github.com/elifpulukcu)
+Developed by [Elif Pulukçu](https://github.com/elifpulukcu).
